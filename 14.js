@@ -13,3 +13,8 @@ console.log(a==g); // value and data types
 console.log(a===g);
 console.log(a===c);
 console.log(e ===);
+
+
+
+
+
