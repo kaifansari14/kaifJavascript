@@ -6,7 +6,7 @@ it's often cleaner that writing mulitpil if...else if conditilons. */
 /*{
     switch(expression)
 {
-    case value:
+    case value1:
         // Code block if expression === value1
         brake;
 
@@ -36,12 +36,4 @@ switch(day) {
         console.log("Please add correct day");
         break;
 }
-
-let day1 = "thusday"
-if (day1) {
-    const  = "Thusday":
-        console.log("It's a Thusday");
-        break;    
-} else {
-    
-}
+ 
