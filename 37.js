@@ -106,3 +106,5 @@ let add1 = (num1,num2) => {
 
 let total2 = add1 (10,20);
 console.log(total2)
+
+
