@@ -11,8 +11,8 @@
 // let arr1 = ["saboor", "rayyan", " kaif"];
 // console.log(arr1.join("#"));
 
-// 13. reverse () Method 
-
+ // 13. reverse () Method 
+//
 // let arr2 = ["saboor","rayyan","kaif"];
 // console.log(arr2.reverse());
 
