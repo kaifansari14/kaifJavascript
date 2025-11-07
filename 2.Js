@@ -4,7 +4,7 @@
 There are 3 types of veriaables in js 
 
 1.var 
-2. let 
+2.let 
 3.const 
 
 Variables are constant (storage areas) for data/text/value
